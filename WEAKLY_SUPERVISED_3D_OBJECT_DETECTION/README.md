@@ -32,8 +32,5 @@ https://www.notion.so/6233d11c8876430a9968ee05b3745e41
 
 [Code ](Weakly%20Supervised%20Lidar%20Object%20Detection%206233d11c8876430a9968ee05b3745e41/Code%20faa61a75cd37408a8eaade3bd88b0f5b.md)
 
-                                                                                                                                                                          **Submitted by**
-
-                                                                                                                                                                                      **Akshay Antony  (akshayan@andrew.cmu.edu)**
-
-                                                                                                                                                                                 **Badal Pardhi (bpardhi@andrew.cmu.edu)**
+                                                                                                                                                                        ##Submitted by
+Badal Pardhi (bpardhi@andrew.cmu.edu)
