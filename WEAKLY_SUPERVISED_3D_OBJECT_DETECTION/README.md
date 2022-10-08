@@ -26,11 +26,5 @@ https://www.notion.so/6233d11c8876430a9968ee05b3745e41
 
 [Conclusion](Weakly%20Supervised%20Lidar%20Object%20Detection%206233d11c8876430a9968ee05b3745e41/Conclusion%20f0d83b8139f642d782f9f9e31ac3d005.md)
 
-## Codebase
-
----
-
-[Code ](Weakly%20Supervised%20Lidar%20Object%20Detection%206233d11c8876430a9968ee05b3745e41/Code%20faa61a75cd37408a8eaade3bd88b0f5b.md)
-
-                                                                                                                                                                        ##Submitted by
+##Submitted by
 Badal Pardhi (bpardhi@andrew.cmu.edu)
